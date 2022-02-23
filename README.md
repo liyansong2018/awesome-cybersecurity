@@ -1,5 +1,13 @@
 # Awesome Cybersecurity
 
+A collection of awesome repositories about security on github. We use *Python Web Crawler* to search all awesome-security repositories and made corresponding statistics on the scan results. Below are some valuable repositories.
+
+![top_repositories](images/top_repositories.png)
+
+
+
+![trend_repositories](images/trend_repositories.png)
+
 ## Comprehensive
 
 - [awesome-security](https://github.com/sbilly/awesome-security) - A collection of *awesome* software, libraries, documents, books, resources and cools stuffs about security
@@ -46,30 +54,20 @@
 
 - [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) - A curated list of resources for learning about vehicle *security* and car hacking
 - [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security) - An effort to build a single place for all useful android and iOS security related stuff
-
 - [awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security) - A curated list of awesome embedded and IoT security resources
 - [awesome-firmware-security](https://github.com/PreOS-Security/awesome-firmware-security) - Awesome Firmware Security & Other Helpful Documents
 
 ## Programing Language
 
 - [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
-
 - [awesome-php-security](https://github.com/guardrailsio/awesome-php-security) - Awesome PHP Security Resources 🕶🐘🔐
-
 - [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) - Awesome Golang Security resources 🕶🔐
-
 - [awesome-python-security](https://github.com/guardrailsio/awesome-python-security) - Awesome Python Security resources 🕶🐍🔐
-
 - [awesome-java-security](https://github.com/guardrailsio/awesome-java-security) - Awesome Java Security Resources 🕶☕🔐
-
 - [awesome-java-security-checklist](https://github.com/we1h0/awesome-java-security-checklist) - awesome-java-security-checklist(关于Java安全方面,Java基础/审计/修复/设计/规范)
-
 - [awesome-ruby-security](https://github.com/pxlpnk/awesome-ruby-security) - Awesome Ruby Security resources
-
 - [awesome-go-security](https://github.com/Binject/awesome-go-security) - A dedicated place for cool golang security projects
-
 - [awesome-security-audits](https://github.com/pomerium/awesome-security-audits) - A collection of public security audits.
-
 - [Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) - AISecurity
 
 ## Other
