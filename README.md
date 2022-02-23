@@ -2,11 +2,13 @@
 
 A collection of awesome repositories about security on github. We use *Python Web Crawler* to search all awesome-security repositories and made corresponding statistics on the scan results. Below are some valuable repositories.
 
-![top_repositories](images/top_repositories.png)
+<div align=center>
+<img src="https://github.com/liyansong2018/awesome-cybersecurity/blob/main/images/top_repositories.png">
+</div>
 
-
-
-![trend_repositories](images/trend_repositories.png)
+<div align=center>
+<img src="https://github.com/liyansong2018/awesome-cybersecurity/blob/main/images/trend_repositories.png">
+</div>
 
 ## Comprehensive
 
