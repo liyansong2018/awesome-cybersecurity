@@ -1,0 +1,51 @@
+name,user,discription,star,update time,distance,url
+awesome-reference,agussetyar,Reference list of useful links to learn about programming,70,2020-10-01T08:01:54Z,1.4037078259766615,https://github.com/agussetyar/awesome-reference
+awesome-nodejs-security,lirantal,Awesome Node.js Security resources,1900,2022-02-14T17:58:39Z,0.029969717148655504,https://github.com/lirantal/awesome-nodejs-security
+Awesome-ML-Cybersecurity,opensci-hub,Machine Learning For Cybersecurity.,29,2019-11-09T03:41:23Z,2.300093892694064,https://github.com/opensci-hub/Awesome-ML-Cybersecurity
+awesome-cloud-security,4ndersonLin,Awesome Cloud Security Resources,888,2022-02-22T08:54:41Z,0.009086853120243531,https://github.com/4ndersonLin/awesome-cloud-security
+awesome-wifi-security,edelahozuah,A collection of awesome resources related to 802.11 security,106,2019-04-10T16:47:06Z,2.88216064180619,https://github.com/edelahozuah/awesome-wifi-security
+awesome-security-hardening,decalage2,A collection of awesome security hardening guides,1900,2022-01-22T22:59:07Z,0.09241175164890918,https://github.com/decalage2/awesome-security-hardening
+awesome-rl-for-cybersecurity,Limmen,A curated list of resources dedicated to reinforcement learning applied to cyber security.,61,2022-02-17T15:06:26Z,0.022078196347031964,https://github.com/Limmen/awesome-rl-for-cybersecurity
+awesome-security-newsletters,TalEliyahu,Periodic cyber security newsletters that capture the latest news,145,2022-02-14T11:37:31Z,0.030694856671740232,https://github.com/TalEliyahu/awesome-security-newsletters
+awesome-malware,fabacab,A curated collection of awesome malware,140,2021-03-14T18:12:07Z,0.9532317668696093,https://github.com/fabacab/awesome-malware
+AwesomeMoroccanHackers,RyouYoo,An Awesome List of Moroccan Cyber Security Researchers,64,2022-02-24T08:52:07Z,0.0036122843734145106,https://github.com/RyouYoo/AwesomeMoroccanHackers
+chepy,securisec,Chepy is a python lib,397,2022-02-10T03:26:04Z,0.04258881912734652,https://github.com/securisec/chepy
+awesome-security-feed,mrtouch93,A semi-curated list of Security Feeds,63,2021-10-24T08:37:37Z,0.3406262049720954,https://github.com/mrtouch93/awesome-security-feed
+awesome-executable-packing,dhondta,A curated list of awesome resources related to executable packing,449,2022-02-13T00:12:41Z,0.03473756976154237,https://github.com/dhondta/awesome-executable-packing
+awesome-list-of-secrets-in-environment-variables,Puliczek,Awesome list of secrets in environment variables,538,2022-01-15T15:16:33Z,0.1124699391171994,https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables
+Awesome-CyberSec-Resources,theepiccode,An awesome collection of curated Cyber Security resources,63,2021-11-01T07:34:36Z,0.3188282914764079,https://github.com/theepiccode/Awesome-CyberSec-Resources
+awesome-anti-forensic,shadawck,Tools and packages that are used for countering forensic activities,92,2021-10-31T20:49:20Z,0.32005596778285134,https://github.com/shadawck/awesome-anti-forensic
+recommendations-for-engineers,pyxelr,All of my recommendations for aspiring engineers in a single place,67,2022-02-09T12:21:55Z,0.04430904363267377,https://github.com/pyxelr/recommendations-for-engineers
+personal-security-checklist,Lissy93,A curated checklist of 300,2600,2022-02-06T06:06:02Z,0.053243372653475396,https://github.com/Lissy93/personal-security-checklist
+cybersecurity-red-team,paulveillard,A collection of awesome software,19,2022-01-27T12:39:06Z,0.0798927891933029,https://github.com/paulveillard/cybersecurity-red-team
+awesome-security-articles,irgoncalves,This repository contains links to awesome security articles.,25,2021-11-30T02:41:54Z,0.23993312404870623,https://github.com/irgoncalves/awesome-security-articles
+DevSecOps,sottlmarek,Ultimate DevSecOps library,2200,2022-02-23T09:26:49Z,0.00628605403348554,https://github.com/sottlmarek/DevSecOps
+awesome-cybersecurity-news,ForbiddenProgrammer,List of sources for cybersecurity news,14,2021-01-17T22:08:30Z,1.106206747843734,https://github.com/ForbiddenProgrammer/awesome-cybersecurity-news
+StudentResources,FreesideHull,An awesome list of computer science related resources created by staff and students at the university of hull.,32,2022-01-16T12:45:16Z,0.11001807458143074,https://github.com/FreesideHull/StudentResources
+awesome-sec-challenges,mikeprivette,A curated list of Awesome Security Challenges.,33,2022-01-27T13:47:43Z,0.07976227168949772,https://github.com/mikeprivette/awesome-sec-challenges
+The-Awesome-And-Dangerous-collection,maxamin,NULL,17,2022-01-30T09:10:58Z,0.07206963470319634,https://github.com/maxamin/The-Awesome-And-Dangerous-collection
+awesome-ml-for-cybersecurity-books,cckuailong,PDF books for awesome-ml-for-cybersecurity-books,6,2021-09-30T03:16:20Z,0.40699093099949263,https://github.com/cckuailong/awesome-ml-for-cybersecurity-books
+awesome-recon-tools,nahberry,A compiled list of tools for reconnaissance and footprinting,21,2021-03-27T19:46:58Z,0.9174349315068493,https://github.com/nahberry/awesome-recon-tools
+awesome-ml-for-cybersecurity,parveshkatoch,NULL,0,2019-06-14T12:21:45Z,2.7045833650431255,https://github.com/parveshkatoch/awesome-ml-for-cybersecurity
+awesome-cybersecurity,YouGameRr,It Contains list of all the awesome topics related to Cyber Security at one place.,4,2021-06-07T13:58:33Z,0.7208375507356671,https://github.com/YouGameRr/awesome-cybersecurity
+Cybersecurity,Ananya-0306,A collection of various awesome lists for hackers,4,2021-04-17T08:07:31Z,0.8612314497716895,https://github.com/Ananya-0306/Cybersecurity
+cybersecurity-blue-team,paulveillard,A collection of awesome software,4,2022-01-15T01:19:42Z,0.11406221461187215,https://github.com/paulveillard/cybersecurity-blue-team
+Cybersecurity-Resources,palanioffcl,Awesome Cybersecurity Resources,0,2021-10-22T06:09:45Z,0.3463870814307458,https://github.com/palanioffcl/Cybersecurity-Resources
+cybersecurity-web-hacking,paulveillard,An ongoing collection of awesome ethical hacking tools,3,2022-01-18T01:22:44Z,0.10583726534753932,https://github.com/paulveillard/cybersecurity-web-hacking
+cybersecurity-self-hosted,paulveillard,A collection of awesome framework,3,2021-12-31T18:32:06Z,0.15319387366818873,https://github.com/paulveillard/cybersecurity-self-hosted
+awesome-DGA,chhayac,Domain Generation Algorithms research papers,9,2020-05-17T03:16:14Z,1.7795939244038559,https://github.com/chhayac/awesome-DGA
+cybersecurity-API-security-checklist,paulveillard,An ongoing collection of awesome software,3,2022-02-02T01:48:42Z,0.06469197108066971,https://github.com/paulveillard/cybersecurity-API-security-checklist
+cybersecurity-cryptography,paulveillard,A collection of awesome software,2,2022-02-04T00:52:49Z,0.059318841958396755,https://github.com/paulveillard/cybersecurity-cryptography
+awesome-security-awesome,egrieco,A collection of awesome-,0,2021-07-05T05:37:36Z,0.6450783866057839,https://github.com/egrieco/awesome-security-awesome
+cybersecurity-macOS-iOS-security,paulveillard,An ongoing collection of awesome macOS and iOS security tools,3,2021-12-31T18:01:52Z,0.1532513952308473,https://github.com/paulveillard/cybersecurity-macOS-iOS-security
+cybersecurity-soc-compliance,paulveillard,A collection of awesome framework,2,2022-01-30T00:14:03Z,0.0730912290715373,https://github.com/paulveillard/cybersecurity-soc-compliance
+cybersecurity-iOS,paulveillard,A collection of awesome framework,1,2021-12-31T18:36:33Z,0.15318547057331303,https://github.com/paulveillard/cybersecurity-iOS
+cybersecurity-hacking,paulveillard,An ongoing collection of awesome tools and frameworks,1,2022-01-20T02:44:07Z,0.10020303779807205,https://github.com/paulveillard/cybersecurity-hacking
+cybersecurity-analytics,paulveillard,An ongoing collection of awesome software,1,2021-12-30T00:00:26Z,0.15804870624048706,https://github.com/paulveillard/cybersecurity-analytics
+cybersecurity-applied-cryptography,paulveillard,A collection of awesome software,1,2022-02-04T00:53:36Z,0.05931741501775748,https://github.com/paulveillard/cybersecurity-applied-cryptography
+cybersecurity-threat-intelligence,paulveillard,A collection of awesome software,1,2022-01-17T03:31:07Z,0.1083327942668696,https://github.com/paulveillard/cybersecurity-threat-intelligence
+cybersecurity-pcap-tools,paulveillard,A collection of awesome software,1,2022-01-29T03:19:25Z,0.07547834221207508,https://github.com/paulveillard/cybersecurity-pcap-tools
+cybersecurity-tls-security,paulveillard,A collection of awesome framework,1,2022-02-04T16:34:20Z,0.057527587519025876,https://github.com/paulveillard/cybersecurity-tls-security
+cybersecurity-YARA,paulveillard,An ongoing collection of awesome tools and frameworks,1,2022-01-20T02:43:33Z,0.1002041159309995,https://github.com/paulveillard/cybersecurity-YARA
+cybersecurity-auth,paulveillard,An ongoing,1,2022-02-08T03:28:41Z,0.04806345129375951,https://github.com/paulveillard/cybersecurity-auth
+cybersecurity-architecture,paulveillard,A collection of awesome framework,1,2021-12-31T19:47:09Z,0.1530511478944698,https://github.com/paulveillard/cybersecurity-architecture
