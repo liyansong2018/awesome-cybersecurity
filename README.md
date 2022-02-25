@@ -7,7 +7,7 @@ A collection of awesome repositories about security on github. We use *Python We
 </div>
 
 <div align=center>
-<img src="https://github.com/liyansong2018/awesome-cybersecurity/blob/main/images/trend_repositories.png" width="80%">
+<img src="https://github.com/liyansong2018/awesome-cybersecurity/blob/main/images/trend_repositories.png" width="70%">
 </div>
 
 ## Comprehensive
