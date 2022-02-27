@@ -76,7 +76,7 @@ Awesome cybersecurity repositories (Updated in the last three years, 50 stars +)
 ##  Technologies
 
 - [Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) - AISecurity
-- [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - ![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png) Machine Learning for Cyber Security
+- [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security
 - [Awesome-ML-Cybersecurity](https://github.com/opensci-hub/Awesome-ML-Cybersecurity) - Machine Learning For Cybersecurity.
 - [awesome-rl-for-cybersecurity](https://github.com/Limmen/awesome-rl-for-cybersecurity) - A curated list of resources dedicated to reinforcement learning applied to cyber security.
 - [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - 💻🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
