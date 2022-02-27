@@ -9,6 +9,7 @@ A collection of awesome repositories about security on github. We use *Python We
 <div align=center>
 <img src="https://github.com/liyansong2018/awesome-cybersecurity/blob/main/images/trend_repositories.png" width="70%">
 </div>
+Awesome cybersecurity repositories (Updated in the last three years, 50 stars +)
 
 ## Comprehensive
 
@@ -18,6 +19,7 @@ A collection of awesome repositories about security on github. We use *Python We
 - [awesome-cyber-security](https://github.com/alphaSeclab/awesome-cyber-security) - Awesome Cyber Security Resource Collection. Currently contains 8000+ open source repositories, and not very well classified. For each repository, extra info included: star count, commit count, last update time. This is the DRAFT version
 - [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - A collected list of awesome security talks
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- [Free_CyberSecurity_Professional_Development_Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources) - An awesome list of FREE resources for training, conferences, speaking, labs, reading, etc that are free. Originally built during COVID-19 for cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock. Now its taken on a life of its own and will persist, C…
 
 ## System
 
@@ -70,7 +72,23 @@ A collection of awesome repositories about security on github. We use *Python We
 - [awesome-ruby-security](https://github.com/pxlpnk/awesome-ruby-security) - Awesome Ruby Security resources
 - [awesome-go-security](https://github.com/Binject/awesome-go-security) - A dedicated place for cool golang security projects
 - [awesome-security-audits](https://github.com/pomerium/awesome-security-audits) - A collection of public security audits.
+
+##  Technologies
+
 - [Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) - AISecurity
+- [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - ![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png) Machine Learning for Cyber Security
+- [Awesome-ML-Cybersecurity](https://github.com/opensci-hub/Awesome-ML-Cybersecurity) - Machine Learning For Cybersecurity.
+- [awesome-rl-for-cybersecurity](https://github.com/Limmen/awesome-rl-for-cybersecurity) - A curated list of resources dedicated to reinforcement learning applied to cyber security.
+- [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - 💻🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+- [ awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) - 网络安全 · 攻防对抗 · 蓝队清单，中文版
+- [ cybersecurity-red-team](https://github.com/paulveillard/cybersecurity-red-team) - A collection of awesome software, libraries, learning tutorials, documents and books, technical resources and cool stuff about Red Team in Cybersecurity.
+
+## Information
+
+- [awesome-cybersecurity-internships](https://github.com/paralax/awesome-cybersecurity-internships) - a list of cybersecurity internships
+- [edu-resources](https://github.com/CSIRT-MU/edu-resources) - An awesome list of cybersecurity educational resources
+- [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets) - A curated list of amazingly awesome Cybersecurity datasets.
+- [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 
 ## Other
 
@@ -81,6 +99,3 @@ A collection of awesome repositories about security on github. We use *Python We
 - [awesome-zero-trust](https://github.com/pomerium/awesome-zero-trust) - A curated collection of awesome resources for the zero-trust security model.
 - [Awesome-SOAR](https://github.com/correlatedsecurity/Awesome-SOAR) - A curated Cyber "Security Orchestration, Automation and Response (SOAR)" awesome list.
 - [awesome-fuzzing](https://github.com/cpuu/awesome-fuzzing) - A curated list of awesome Fuzzing(or Fuzz Testing) for software security
-
-
-
