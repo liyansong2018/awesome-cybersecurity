@@ -86,13 +86,9 @@ Awesome cybersecurity repositories (Updated in the last three years, 50 stars +)
 ## Information
 
 - [awesome-cybersecurity-internships](https://github.com/paralax/awesome-cybersecurity-internships) - a list of cybersecurity internships
-
 - [edu-resources](https://github.com/CSIRT-MU/edu-resources) - An awesome list of cybersecurity educational resources
-
 - [Security-PPT](https://github.com/FeeiCN/Security-PPT) - 大安全各领域各公司各会议分享的PPT
-
 - [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets) - A curated list of amazingly awesome Cybersecurity datasets.
-
 - [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 
 ## Other
