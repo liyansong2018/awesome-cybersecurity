@@ -86,6 +86,7 @@ Awesome cybersecurity repositories (Updated in the last three years, 50 stars +)
 - [cybersecurity-red-team](https://github.com/paulveillard/cybersecurity-red-team) - A collection of awesome software, libraries, learning tutorials, documents and books, technical resources and cool stuff about Red Team in Cybersecurity.
 - [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
+- [awesome-linux-rootkits](https://github.com/milabs/awesome-linux-rootkits) -  awesome-linux-rootkits 
 
 ## Information
 
