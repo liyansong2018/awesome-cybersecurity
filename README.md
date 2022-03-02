@@ -6,8 +6,10 @@ A collection of awesome repositories about security on github. We use *Python We
 <img src="https://github.com/liyansong2018/awesome-cybersecurity/blob/main/images/top_repositories.png" width="80%">
 </div>
 
+<br />
+
 <div align=center>
-<img src="https://github.com/liyansong2018/awesome-cybersecurity/blob/main/images/trend_repositories.png" width="70%">
+<img src="https://github.com/liyansong2018/awesome-cybersecurity/blob/main/images/trend_repositories.png" width="80%">
 </div>
 Awesome cybersecurity repositories (Updated in the last three years, 50 stars +)
 
