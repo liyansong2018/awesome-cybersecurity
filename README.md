@@ -13,7 +13,7 @@ A collection of awesome repositories about security on github. We use *Python We
 </div>
 Awesome cybersecurity repositories (Updated in the last three years, 50 stars +)
 
-中文：[有趣的开源网络安全资源集合](https://www.freebuf.com/news/323897.html)
+👉 [Chinese is available] 中文：[有趣的网络安全资源集合](https://www.freebuf.com/news/323897.html)
 
 ## Comprehensive
 
