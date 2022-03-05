@@ -11,9 +11,10 @@ A collection of awesome repositories about security on github. We use *Python We
 <div align=center>
 <img src="https://github.com/liyansong2018/awesome-cybersecurity/blob/main/images/trend_repositories.png" width="80%">
 </div>
+
 Awesome cybersecurity repositories (Updated in the last three years, 50 stars +)
 
-👉 [Chinese is available] 中文：[有趣的网络安全资源集合](https://www.freebuf.com/news/323897.html)
+👉 [Chinese is available] 中文：[网络安全资源精选](https://www.freebuf.com/news/323897.html)
 
 ## Comprehensive
 
@@ -97,6 +98,7 @@ Awesome cybersecurity repositories (Updated in the last three years, 50 stars +)
 - [Security-PPT](https://github.com/FeeiCN/Security-PPT) - 大安全各领域各公司各会议分享的PPT
 - [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets) - A curated list of amazingly awesome Cybersecurity datasets.
 - [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
+- [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups
 
 ## Other
 
