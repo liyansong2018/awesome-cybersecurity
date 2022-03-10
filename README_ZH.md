@@ -16,6 +16,7 @@
 
 * [Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking) - Web安全学习笔记（**中文**）
 * [Web-Security-Attack](https://github.com/hongriSec/Web-Security-Attack) - Web安全相关内容（**中文**）
+* **[web-security](https://github.com/spoock1024/web-security)** - Web安全中比较好的文章（**中文**，包括学习方法、路线）
 
 ## 协议安全
 
@@ -92,3 +93,6 @@
 * [secbook](https://github.com/riusksk/secbook) - 信息安全从业者书单推荐（**中文**）
 * [sec_profile](https://github.com/tanjiti/sec_profile) - 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等)（**中文**）
 * [awesome-security](https://github.com/sbilly/awesome-security)、[awesome-cyber-security](https://github.com/alphaSeclab/awesome-cyber-security)、[awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening)、[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)、[Free\_CyberSecurity\_Professional\_Development\_Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)\- 网络安全集合
+
+PS：相比庞大的英文学习资源来说，中文资料质量可能欠缺，但是很多材料言简意赅，适合新手上路，也利于国人快速入门网络安全。
+
