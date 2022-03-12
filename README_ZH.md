@@ -4,19 +4,19 @@
 
 :white_check_mark:| Android | iOS/OSX | Windows | Linux | 工控系统 |
 
-* [AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) - 安卓应用安全学习，FRIDA系列文章（**中文**）
+* [AndroidSecurityStudy](https://github.com/r0ysue/AndroidSecurityStudy) - 安卓应用安全学习（FRIDA逆向及脱壳技术系列文章（**中文**））
 * <b>[awesome-ios-security-cn](https://github.com/satan1a/awesome-ios-security-cn)</b>\- iOS安全资料整理（**中文**）
 * **[IosHackStudy](https://github.com/pandazheng/IosHackStudy)** - IOS安全学习资料汇总（**中文**）
 * [Bank](https://github.com/Gh05ter/Bank) - 工控安全（**中文**）
-* [icsmaster](https://github.com/w3h/icsmaster) - ICS/SCADA Security Resource（整合工控安全相关资源）（**中文**）
+* [icsmaster](https://github.com/w3h/icsmaster) - ICS/SCADA Security Resource（整合工控安全相关资源 - **中文**）
 
 ## Web 安全
 
 :white_check_mark:| Web | 云 | 容器 |
 
 * [Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking) - Web安全学习笔记（**中文**）
-* [Web-Security-Attack](https://github.com/hongriSec/Web-Security-Attack) - Web安全相关内容（**中文**）
-* **[web-security](https://github.com/spoock1024/web-security)** - Web安全中比较好的文章（**中文**，包括学习方法、路线）
+* [Web-Security-Attack](https://github.com/hongriSec/Web-Security-Attack) - Web安全相关内容（红日安全-Web安全攻防小组系列文章 - **中文**）
+* **[web-security](https://github.com/spoock1024/web-security)** - Web安全中比较好的文章（包括学习方法、路线 - **中文**）
 
 ## 协议安全
 
@@ -32,7 +32,7 @@
 * [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security)\- 移动安全，包括 Android 和 iOS
 * [awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security)\- 很棒的嵌入式和物联网安全资源的精选列表
 * [awesome-firmware-security](https://github.com/PreOS-Security/awesome-firmware-security)\- 很棒的固件安全性和其他有用的文档
-* **[Vehicle-Security-Toolkit](https://github.com/firmianay/Vehicle-Security-Toolkit)** - 汽车/安卓/固件/代码安全测试工具集（**中文**）
+* [Vehicle-Security-Toolkit](https://github.com/firmianay/Vehicle-Security-Toolkit) - ~~汽车/安卓/固件/代码安全测试工具集（暂时没有看到跟车的关系~~**中文**）
 
 ## 代码安全及编程规范
 
@@ -94,5 +94,5 @@
 * [sec_profile](https://github.com/tanjiti/sec_profile) - 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等)（**中文**）
 * [awesome-security](https://github.com/sbilly/awesome-security)、[awesome-cyber-security](https://github.com/alphaSeclab/awesome-cyber-security)、[awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening)、[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)、[Free\_CyberSecurity\_Professional\_Development\_Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)\- 网络安全集合
 
-PS：相比庞大的英文学习资源来说，中文资料质量可能欠缺，但是很多材料言简意赅，适合新手上路，也利于国人快速入门网络安全。
+PS：相比庞大的英文学习资源来说，中文资料质量可能欠缺，但是很多材料言简意赅，适合新手上路，也利于国人快速入门网络安全，根据项目质量，后期会增删一些资源。
 
