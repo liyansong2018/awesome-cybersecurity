@@ -81,7 +81,6 @@
 ## 杂项-综合
 
 * <b>[awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts)</b>\- 网络安全类公众号（**中文**）
-* [Awesome-Security-Tool-List](https://github.com/tina1998612/Awesome-Security-Tool-List)\- 安全工具列表
 * **[SecToolSet](https://github.com/bollwarm/SecToolSet)** - github安全项目工具集合（**中文**）
 * **[fuzzdb-collect](https://github.com/euphrat1ca/fuzzdb-collect)** - 网络上安全资源的搜集（**中文**）
 * [PeiQi-WIKI-POC](https://github.com/PeiQi0/PeiQi-WIKI-POC) - 面向网络安全从业者的知识文库🍃 (项目重构中～)（**中文**）
