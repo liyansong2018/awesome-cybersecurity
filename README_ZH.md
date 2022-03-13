@@ -32,7 +32,6 @@
 * [awesome-mobile-security](https://github.com/vaib25vicky/awesome-mobile-security)\- 移动安全，包括 Android 和 iOS
 * [awesome-embedded-and-iot-security](https://github.com/fkie-cad/awesome-embedded-and-iot-security)\- 很棒的嵌入式和物联网安全资源的精选列表
 * [awesome-firmware-security](https://github.com/PreOS-Security/awesome-firmware-security)\- 很棒的固件安全性和其他有用的文档
-* [Vehicle-Security-Toolkit](https://github.com/firmianay/Vehicle-Security-Toolkit) - ~~汽车/安卓/固件/代码安全测试工具集（暂时没有看到跟车的关系~~**中文**）
 
 ## 代码安全及编程规范
 
@@ -72,11 +71,15 @@
 
 ## 实用材料
 
+:white_check_mark:| 安全会议 | 思维导图 |  面试 | 信息安全书单 |
+
 * <b>[Security-PPT](https://github.com/FeeiCN/Security-PPT)</b>\- 大安全各领域各公司各会议分享的PPT（**中文**）
-* [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets)\- 安全数据集
 * **[sec-chart](https://github.com/SecWiki/sec-chart)** - 安全思维导图集合（**中文**）
 * [Mind-Map](https://github.com/phith0n/Mind-Map) - 各种安全相关思维导图整理收集（**中文**）
 * **[sec_skills](https://github.com/feicong/sec_skills)** - 软件安全工程师技能表（**中文**）
+* [sec-interview](https://github.com/d1nfinite/sec-interview) - 信息安全面试题汇总（**中文**）
+* [sec_interview_know_list](https://github.com/tiaotiaolong/sec_interview_know_list) - 信息安全方面面试清单（**中文**）
+* [secbook](https://github.com/riusksk/secbook) - 信息安全从业者书单推荐（**中文**）
 
 ## 杂项-综合
 
@@ -85,11 +88,8 @@
 * **[fuzzdb-collect](https://github.com/euphrat1ca/fuzzdb-collect)** - 网络上安全资源的搜集（**中文**）
 * [PeiQi-WIKI-POC](https://github.com/PeiQi0/PeiQi-WIKI-POC) - 面向网络安全从业者的知识文库🍃 (项目重构中～)（**中文**）
 * [Always-Learning](https://github.com/404notf0und/Always-Learning) - 404 Not Found的知识库：计算机理论基础、计算机技术基础、底层研究、安全技术、安全研究、人工智能、企业安全建设、安全发展、职业规划、综合素质、国内外优秀技术人（**中文**）
-* **[sec-interview](https://github.com/d1nfinite/sec-interview)** - 信息安全面试题汇总（**中文**）
-* **[sec_interview_know_list](https://github.com/tiaotiaolong/sec_interview_know_list)** - 信息安全方面面试清单（**中文**）
 * **[HackerMind](https://github.com/Ascotbe/HackerMind)** - 渗透步骤，web安全，CTF，业务安全，人工智能，区块链安全，安全开发，无线安全，社会工程学，二进制安全，移动安全，红蓝对抗，运维安全，风控安全，linux安全（**中文**）
 * **[1earn](https://github.com/ffffffff0x/1earn)** - ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup（**中文**）
-* [secbook](https://github.com/riusksk/secbook) - 信息安全从业者书单推荐（**中文**）
 * [sec_profile](https://github.com/tanjiti/sec_profile) - 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等)（**中文**）
 * [awesome-security](https://github.com/sbilly/awesome-security)、[awesome-cyber-security](https://github.com/alphaSeclab/awesome-cyber-security)、[awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening)、[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)、[Free\_CyberSecurity\_Professional\_Development\_Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)\- 网络安全集合
 
