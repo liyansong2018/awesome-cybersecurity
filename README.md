@@ -47,7 +47,7 @@ Awesome cybersecurity repositories (Updated in the last three years, 50 stars +)
 - [awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security) - List of Bluetooth BR/EDR/LE security resources
 - [awesome-ethereum-security](https://github.com/crytic/awesome-ethereum-security) - A curated list of awesome Ethereum security references
 
-## Cloud/Web
+## Web
 
 - [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources
 - [awesome-cloud-security](https://github.com/Funkmyster/awesome-cloud-security) - Curated list of awesome cloud security blogs, podcasts, standards, projects, and examples.

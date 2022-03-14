@@ -20,7 +20,7 @@
 
 ## 协议安全
 
-:white_check_mark:| Wifi | 蓝牙 | 区块链 |
+:white_check_mark:| Wifi | 蓝牙 |
 
 * [awesome-wifi-security](https://github.com/edelahozuah/awesome-wifi-security)\- 与 802\.11 wiif 协议相关的工具和资源集合
 
@@ -50,7 +50,7 @@
 
 ## 新型领域
 
-:white_check_mark:| 人工智能 | 机器学习 | 强化学习 |
+:white_check_mark:| 人工智能 | 机器学习 | 强化学习 | 区块链 |
 
 * [Awesome-AI-安全](https://github.com/DeepSpaceHarbor/Awesome-AI-Security)\- AI 安全
 * [AI-for-Security-Learning](https://github.com/404notf0und/AI-for-Security-Learning) - AI 安全（**中文**）
