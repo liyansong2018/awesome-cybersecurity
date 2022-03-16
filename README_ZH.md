@@ -86,6 +86,7 @@
 * <b>[awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts)</b>\- 网络安全类公众号（**中文**）
 * **[SecToolSet](https://github.com/bollwarm/SecToolSet)** - github安全项目工具集合（**中文**）
 * **[fuzzdb-collect](https://github.com/euphrat1ca/fuzzdb-collect)** - 网络上安全资源的搜集（**中文**）
+* [Security-List](https://github.com/euphrat1ca/Security-List) - 一些关于各种网络安全资料的 wiki（**中文**）
 * [PeiQi-WIKI-POC](https://github.com/PeiQi0/PeiQi-WIKI-POC) - 面向网络安全从业者的知识文库🍃 (项目重构中～)（**中文**）
 * [Always-Learning](https://github.com/404notf0und/Always-Learning) - 404 Not Found的知识库：计算机理论基础、计算机技术基础、底层研究、安全技术、安全研究、人工智能、企业安全建设、安全发展、职业规划、综合素质、国内外优秀技术人（**中文**）
 * **[HackerMind](https://github.com/Ascotbe/HackerMind)** - 渗透步骤，web安全，CTF，业务安全，人工智能，区块链安全，安全开发，无线安全，社会工程学，二进制安全，移动安全，红蓝对抗，运维安全，风控安全，linux安全（**中文**）
