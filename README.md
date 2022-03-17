@@ -1,6 +1,4 @@
-# Awesome Cybersecurity
-[![Awesome](https://awesome.re/badge-flat.svg)]( https://awesome.re)
-
+# Awesome Cybersecurity [![Awesome](https://awesome.re/badge-flat.svg)]( https://awesome.re)
 A collection of awesome repositories about security on GitHub. We use *Python Web Crawler* to search all awesome-security repositories and made corresponding statistics on the scan results. Below are some valuable repositories.
 
 <div align=center>
@@ -26,7 +24,7 @@ Awesome cybersecurity repositories (Updated in the last three years, 50 stars +)
 - [System](#system)
 - [Component](#component)
 - [Web](#web)
-- [Endpoint](#Endpoint)
+- [Endpoint](#endpoint)
 - [Coding](#Coding)
 - [Technologies](#technologies)
 - [Information](#information)
@@ -50,9 +48,9 @@ Awesome cybersecurity repositories (Updated in the last three years, 50 stars +)
 - [osx-security-awesome](https://github.com/kai5263499/osx-security-awesome) - A collection of macOS and iOS security resources.
 - [awesome-ios-security-cn](https://github.com/satan1a/awesome-ios-security-cn) - iOS安全资料整理（中文）.
 - [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening) - A curated list of awesome Security Hardening techniques for Windows.
-- [awesome-windows-kernel-security-development](https://github.com/ExpLife0011/awesome-windows-kernel-security-development) - windows kernel security development.
-- [awesome-windows-security-development](https://github.com/howknows/awesome-windows-security-development) - awesome-windows-security-development.
-- [awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security)  - A curated list of resources related to Industrial Control System (ICS) security.
+- [awesome-windows-kernel-security-development](https://github.com/ExpLife0011/awesome-windows-kernel-security-development) - Windows kernel security development.
+- [awesome-windows-security-development](https://github.com/howknows/awesome-windows-security-development) - Awesome-windows-security-development.
+- [awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
 
 ## Component
 
@@ -64,12 +62,12 @@ Awesome cybersecurity repositories (Updated in the last three years, 50 stars +)
 
 - [awesome-web-security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
 - [awesome-cloud-security](https://github.com/Funkmyster/awesome-cloud-security) - Curated list of awesome cloud security blogs, podcasts, standards, projects, and examples.
-- [awesome-cloud-native-security](https://github.com/Metarget/awesome-cloud-native-security) - awesome resources about cloud native security 🐿.
+- [awesome-cloud-native-security](https://github.com/Metarget/awesome-cloud-native-security) - Awesome resources about cloud native security 🐿.
 - [awesome-container-security](https://github.com/kai5263499/awesome-container-security) - Awesome list of resources related to container security.
-- [awesome-docker-security](https://github.com/myugan/awesome-docker-security) - 📚 A curated list of awesome Docker security resources.
+- [awesome-docker-security](https://github.com/myugan/awesome-docker-security) - A curated list of awesome Docker security resources.
 - [awesome-k8s-security](https://github.com/magnologan/awesome-k8s-security) - A curated list for Awesome Kubernetes Security resources.
 - [awesome-kubernetes-security](https://github.com/ksoclabs/awesome-kubernetes-security) - A curated list of awesome Kubernetes security resources.
-- [awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - 🔥 A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX).
+- [awesome-nginx-security](https://github.com/wallarm/awesome-nginx-security) - A curated list of awesome links related to application security related to the environments with NGINX or Kubernetes Ingres Controller (based on NGINX).
 - [awesome-aws-security](https://github.com/jassics/awesome-aws-security) - Curated list of links, references, books videos, tutorials (Free or Paid), Exploit, CTFs, Hacking Practices etc. which are related to AWS Security.
 - [awesome-serverless-security](https://github.com/puresec/awesome-serverless-security) - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
 - [awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - Awesome Cloud Security Resources.
@@ -90,38 +88,35 @@ Awesome cybersecurity repositories (Updated in the last three years, 50 stars +)
 - [awesome-golang-security](https://github.com/guardrailsio/awesome-golang-security) - Awesome Golang Security resources 🕶🔐.
 - [awesome-python-security](https://github.com/guardrailsio/awesome-python-security) - Awesome Python Security resources 🕶🐍🔐.
 - [awesome-java-security](https://github.com/guardrailsio/awesome-java-security) - Awesome Java Security Resources 🕶☕🔐.
-- [awesome-java-security-checklist](https://github.com/we1h0/awesome-java-security-checklist) - awesome-java-security-checklist(关于Java安全方面,Java基础/审计/修复/设计/规范).
+- [awesome-java-security-checklist](https://github.com/we1h0/awesome-java-security-checklist) - Awesome-java-security-checklist(关于Java安全方面,Java基础/审计/修复/设计/规范).
 - [awesome-ruby-security](https://github.com/pxlpnk/awesome-ruby-security) - Awesome Ruby Security resources.
 - [awesome-go-security](https://github.com/Binject/awesome-go-security) - A dedicated place for cool golang security projects.
 - [awesome-security-audits](https://github.com/pomerium/awesome-security-audits) - A collection of public security audits.
 
-##  Technologies
+## Technologies
 
 - [Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security) - AISecurity.
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
 - [Awesome-ML-Cybersecurity](https://github.com/opensci-hub/Awesome-ML-Cybersecurity) - Machine Learning For Cybersecurity.
 - [awesome-rl-for-cybersecurity](https://github.com/Limmen/awesome-rl-for-cybersecurity) - A curated list of resources dedicated to reinforcement learning applied to cyber security.
-- [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - 💻🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
-- [awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) - 网络安全 · 攻防对抗 · 蓝队清单，中文版.
+- [awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam) - A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - [cybersecurity-red-team](https://github.com/paulveillard/cybersecurity-red-team) - A collection of awesome software, libraries, learning tutorials, documents and books, technical resources and cool stuff about Red Team in Cybersecurity.
 - [awesome-incident-response](https://github.com/meirwah/awesome-incident-response) - A curated list of tools for incident response.
 - [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) - Defund the Police.
-- [awesome-linux-rootkits](https://github.com/milabs/awesome-linux-rootkits) -  awesome-linux-rootkits.
+- [awesome-linux-rootkits](https://github.com/milabs/awesome-linux-rootkits) - Awesome-linux-rootkits.
 
 ## Information
 
-- [awesome-cybersecurity-internships](https://github.com/paralax/awesome-cybersecurity-internships) - a list of cybersecurity internships.
+- [awesome-cybersecurity-internships](https://github.com/paralax/awesome-cybersecurity-internships) - A list of cybersecurity internships.
 - [edu-resources](https://github.com/CSIRT-MU/edu-resources) - An awesome list of cybersecurity educational resources.
-- [Security-PPT](https://github.com/FeeiCN/Security-PPT) - 大安全各领域各公司各会议分享的PPT.
 - [Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets) - A curated list of amazingly awesome Cybersecurity datasets.
-- [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - ▶️ An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
+- [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 - [public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
 
 ## Other
 
 - [Awesome-Security-Gists](https://github.com/Hack-with-Github/Awesome-Security-Gists) - A collection of various GitHub gists for hackers, pentesters and security researchers.
 - [awesome-api-security](https://github.com/arainho/awesome-api-security) - A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
-- [awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) - 网络安全类公众号推荐，欢迎大家推荐.
 - [Awesome-Security-Tool-List](https://github.com/tina1998612/Awesome-Security-Tool-List) - This is a list of security tools that I have used or recommend. Welcome any contributions!
 - [awesome-zero-trust](https://github.com/pomerium/awesome-zero-trust) - A curated collection of awesome resources for the zero-trust security model.
 - [Awesome-SOAR](https://github.com/correlatedsecurity/Awesome-SOAR) - A curated Cyber "Security Orchestration, Automation and Response (SOAR)" awesome list.
