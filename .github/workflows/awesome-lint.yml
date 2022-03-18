@@ -1,0 +1,15 @@
+on:
+  push:
+  pull_request:
+
+name: Awesome lint
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+      # See other options https://github.com/sindresorhus/awesome-lint
+    - name: Run Awesome Lint
+      run: npx awesome-lint
