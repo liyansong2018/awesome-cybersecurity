@@ -92,7 +92,7 @@
 * **[HackerMind](https://github.com/Ascotbe/HackerMind)** - 渗透步骤，web安全，CTF，业务安全，人工智能，区块链安全，安全开发，无线安全，社会工程学，二进制安全，移动安全，红蓝对抗，运维安全，风控安全，linux安全（**中文**）
 * **[1earn](https://github.com/ffffffff0x/1earn)** - ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup（**中文**）
 * [sec_profile](https://github.com/tanjiti/sec_profile) - 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等)（**中文**）
-* [awesome-security](https://github.com/sbilly/awesome-security)、[awesome-cyber-security](https://github.com/alphaSeclab/awesome-cyber-security)、[awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening)、[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)、[Free\_CyberSecurity\_Professional\_Development\_Resources](https://github.com/gerryguy311/Free_CyberSecurity_Professional_Development_Resources)\- 网络安全集合
+* [awesome-cyber-security](https://github.com/alphaSeclab/awesome-cyber-security) - Awesome Cyber Security Resource Collection. Currently contains 8000+ open source repositories, and not very well classified. For each repository, extra info included: star count, commit count, last update time. This is the DRAFT version. - 网络安全集合（中文）
 
 PS：相比庞大的英文学习资源来说，中文资料质量可能欠缺，但是很多材料言简意赅，适合新手上路，也利于国人快速入门网络安全，根据项目质量，后期会增删一些资源。
 
