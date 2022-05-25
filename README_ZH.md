@@ -22,7 +22,13 @@
 
 :white_check_mark:| Wifi | 蓝牙 |
 
-* [awesome-wifi-security](https://github.com/edelahozuah/awesome-wifi-security)\- 与 802\.11 wiif 协议相关的工具和资源集合
+* [awesome-wifi-security](https://github.com/edelahozuah/awesome-wifi-security) - 与 802.11 wiif 协议相关的工具和资源集合
+* [awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security) - 蓝牙 BR/EDR/LE 安全资源列表
+* [awesome-snmp](https://github.com/eozer/awesome-snmp) - snmp协议相关的安全资料
+* [fuzzowski](https://github.com/nccgroup/fuzzowski) - 常见的网络协议fuzzing工具（无状态），例如 LPD、IPP、BACnet、Modbus
+* [cotopaxi](https://github.com/Samsung/cotopaxi) - 常见的IoT网络协议fuzzing工具（无状态），例如AMQP、CoAP、DTLS、HTCPCP等
+* [boofuzz](https://github.com/jtpereyda/boofuzz) - 自定义网络协议fuzzing工具，支持状态机
+* [peach](https://github.com/MozillaSecurity/peach) - 知名的网络协议fuzzing工具，支持状态机
 
 ## 端侧安全
 
@@ -87,12 +93,12 @@
 * **[SecToolSet](https://github.com/bollwarm/SecToolSet)** - github安全项目工具集合（**中文**）
 * **[fuzzdb-collect](https://github.com/euphrat1ca/fuzzdb-collect)** - 网络上安全资源的搜集（**中文**）
 * [Security-List](https://github.com/euphrat1ca/Security-List) - 一些关于各种网络安全资料的 wiki（**中文**）
-* [PeiQi-WIKI-POC](https://github.com/PeiQi0/PeiQi-WIKI-POC) - 面向网络安全从业者的知识文库🍃 (项目重构中～)（**中文**）
 * [Always-Learning](https://github.com/404notf0und/Always-Learning) - 404 Not Found的知识库：计算机理论基础、计算机技术基础、底层研究、安全技术、安全研究、人工智能、企业安全建设、安全发展、职业规划、综合素质、国内外优秀技术人（**中文**）
 * **[HackerMind](https://github.com/Ascotbe/HackerMind)** - 渗透步骤，web安全，CTF，业务安全，人工智能，区块链安全，安全开发，无线安全，社会工程学，二进制安全，移动安全，红蓝对抗，运维安全，风控安全，linux安全（**中文**）
 * **[1earn](https://github.com/ffffffff0x/1earn)** - ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup（**中文**）
 * [sec_profile](https://github.com/tanjiti/sec_profile) - 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等)（**中文**）
 * [awesome-cyber-security](https://github.com/alphaSeclab/awesome-cyber-security) - Awesome Cyber Security Resource Collection. Currently contains 8000+ open source repositories, and not very well classified. For each repository, extra info included: star count, commit count, last update time. This is the DRAFT version. - 网络安全集合（中文）
+* [cve-search](https://github.com/cve-search/cve-search) - 方便以各种关键字搜索CVE的工具。既可以本地化，也提供了在线API。比如，可以搜索特定厂商、特定工具、特定年份的安全漏洞。
 
 PS：相比庞大的英文学习资源来说，中文资料质量可能欠缺，但是很多材料言简意赅，适合新手上路，也利于国人快速入门网络安全，根据项目质量，后期会增删一些资源。
 
