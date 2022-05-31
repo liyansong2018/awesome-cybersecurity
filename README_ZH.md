@@ -85,6 +85,8 @@
 * **[sec_skills](https://github.com/feicong/sec_skills)** - 软件安全工程师技能表（**中文**）
 * [sec-interview](https://github.com/d1nfinite/sec-interview) - 信息安全面试题汇总（**中文**）
 * [sec_interview_know_list](https://github.com/tiaotiaolong/sec_interview_know_list) - 信息安全方面面试清单（**中文**）
+* [JavaSecInterview](https://github.com/4ra1n/JavaSecInterview) - 
+Java安全研究与安全开发面试题库，同是也是常见知识点的梳理和总结（**中文**）
 * [secbook](https://github.com/riusksk/secbook) - 信息安全从业者书单推荐（**中文**）
 
 ## 杂项-综合
