@@ -24,6 +24,7 @@
 
 * [awesome-wifi-security](https://github.com/edelahozuah/awesome-wifi-security) - 与 802.11 wiif 协议相关的工具和资源集合
 * [awesome-bluetooth-security](https://github.com/engn33r/awesome-bluetooth-security) - 蓝牙 BR/EDR/LE 安全资源列表
+* [BLE-Security-Attack-Defence](https://github.com/Charmve/BLE-Security-Attack-Defence) - 低功耗蓝牙的攻击与防御，包含诸多有价值的Fuzzing！
 * [awesome-snmp](https://github.com/eozer/awesome-snmp) - snmp协议相关的安全资料
 * [fuzzowski](https://github.com/nccgroup/fuzzowski) - 常见的网络协议fuzzing工具（无状态），例如 LPD、IPP、BACnet、Modbus
 * [cotopaxi](https://github.com/Samsung/cotopaxi) - 常见的IoT网络协议fuzzing工具（无状态），例如AMQP、CoAP、DTLS、HTCPCP等
