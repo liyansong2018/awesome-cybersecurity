@@ -1,5 +1,16 @@
 非英文版翻译，专注于网络安全中文学习资料，正在完善中...
 
+## 安全资讯
+
+:white_check_mark:| 业界前沿 | 小众社区 | 威胁情报 |
+
+* **[每日安全](https://sec.today/)** - 每日安全最开始是一个腾讯安全玄武实验室内部项目，通过交叉检索公开的数据源来建立一个信息安全资讯的聚合网站。用它来发现历史议题中隐藏的珍贵信息，跟踪最新的研究方向，以及阅读每日的信息安全新闻。
+* **[先知社区](https://xz.aliyun.com/)** - 一个非常专业的安全技术社区
+* **[安全技术精粹](https://paper.seebug.org/)** - seebug paper是由知道创宇收录的经典安全技术文章
+* **[跳跳糖](http://tttang.com/)** - 小众却很优秀的安全社区
+* **[InfoCon](https://infocondb.org)** - 一个对黑客和信息安全会议进行分类和交叉引用的网站
+* 大众化社区 - Freebuf, 看雪, 安全客, 安全内参
+
 ## 系统安全
 
 :white_check_mark:| Android | iOS/OSX | Windows | Linux | 工控系统 |
@@ -89,17 +100,7 @@
 * [JavaSecInterview](https://github.com/4ra1n/JavaSecInterview) - 
 Java安全研究与安全开发面试题库，同是也是常见知识点的梳理和总结（**中文**）
 * [secbook](https://github.com/riusksk/secbook) - 信息安全从业者书单推荐（**中文**）
-
-## 安全资讯
-
-:white_check_mark:| 业界前沿 | 小众社区 | 威胁情报 |
-
-* **[每日安全](https://sec.today/)** - 每日安全最开始是一个腾讯安全玄武实验室内部项目，通过交叉检索公开的数据源来建立一个信息安全资讯的聚合网站。用它来发现历史议题中隐藏的珍贵信息，跟踪最新的研究方向，以及阅读每日的信息安全新闻。
-* **[先知社区](https://xz.aliyun.com/)** - 一个非常专业的安全技术社区
-* **[安全技术精粹](https://paper.seebug.org/)** - seebug paper是由知道创宇收录的经典安全技术文章
-* **[跳跳糖](http://tttang.com/)** - 小众却很优秀的安全社区
-* **[InfoCon](infocondb.org)** - 一个对黑客和信息安全会议进行分类和交叉引用的网站
-* 大众化社区 - Freebuf, 看雪, 安全客, 安全内参
+* **[public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports)** - 各种渗透测试报告
 
 ## 杂项-综合
 
