@@ -9,6 +9,7 @@
 * **[安全技术精粹](https://paper.seebug.org/)** - seebug paper是由知道创宇收录的经典安全技术文章
 * **[跳跳糖](http://tttang.com/)** - 小众却很优秀的安全社区
 * **[InfoCon](https://infocondb.org)** - 一个对黑客和信息安全会议进行分类和交叉引用的网站
+* **[ctfiot](http://www.ctfiot.com/)** - 收录CTF+IOT+工控可以学习的平台，推荐的部分博客如 Delikely，质量较高
 * 大众化社区 - Freebuf, 看雪, 安全客, 安全内参
 
 ## 系统安全
