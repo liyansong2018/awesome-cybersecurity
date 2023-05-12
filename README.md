@@ -1,6 +1,5 @@
 # Awesome Cybersecurity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![awesome-lint](https://github.com/liyansong2018/awesome-cybersecurity/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/liyansong2018/awesome-cybersecurity/actions/workflows/awesome-lint.yml)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=liyansong2018.awesome-cybersecurity)
 
 A collection of awesome repositories about security on GitHub. We use *Python Web Crawler* to search all awesome-security repositories and made corresponding statistics on the scan results. Below are some valuable repositories.
 
