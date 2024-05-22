@@ -19,6 +19,7 @@ import json
 import re
 import time
 import sys, csv
+import random
 
 class Url:
     """
@@ -111,16 +112,25 @@ def main(keywords, page_number, star_number, cookie, proxies=None):
     for keyword in keywords:
         for i in range(page_number):
             url = 'https://github.com/search?p={}&q={}&type=Repositories'.format(i + 1, keyword)
+            print('%d: %s' % (i+1, url))
             # github-error-rate-limit-exceeded
-            response = requests.get(url=url, headers=headers, proxies=proxies, verify=False)
-            soup = BeautifulSoup(response.text, 'lxml')
-            application_json = soup.find_all('script', attrs={'type': 'application/json', 'data-target': 'react-app.embeddedData'})[0]
-            dict = json.loads(application_json.get_text())
+            while True:
+                try:
+                    response = requests.get(url=url, headers=headers, proxies=proxies, verify=False)
+                    soup = BeautifulSoup(response.text, 'lxml')
+                    application_json = soup.find_all('script', attrs={'type': 'application/json', 'data-target': 'react-app.embeddedData'})[0]
+                    dict = json.loads(application_json.get_text())
+                except Exception as e:
+                    # github-error-rate-limit-exceeded
+                    time.sleep(random.randint(1, 5))
+                    continue
+                else:
+                    break
+
             if dict['payload']['results'] == None:
                 break
 
             for item in dict['payload']['results']:
-                print(item)
                 id = item['id']
                 name = item['repo']['repository']['name']
                 user = item['repo']['repository']['owner_login']
@@ -130,10 +140,11 @@ def main(keywords, page_number, star_number, cookie, proxies=None):
                 year = float(update_time[:4])
                 repo_url = 'https://github.com/{}/{}'.format(user, name)
 
+                # 如果id不重复，且star数大于我们设定的目标，则添加到列表
                 if id not in has_id and star >= star_number:
                     has_id.append(id)
                 else:
-                    break
+                    continue
 
                 repo.append(
                     {
@@ -148,14 +159,14 @@ def main(keywords, page_number, star_number, cookie, proxies=None):
                     })
 
     head = ['id', 'name', 'user', 'discription', 'star', 'update time', 'year', 'url']
-    with open(sys.argv[1], 'w', newline='', encoding='utf-8') as fp:
+    with open(sys.argv[1], 'w', newline='', encoding='utf-8-sig') as fp:
         fp_csv = csv.DictWriter(fp, head)
         fp_csv.writeheader()
         fp_csv.writerows(repo)
 
 if __name__ == '__main__':
     urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-    cookie = '' # Your github account cookie!
+    cookie = '' # Your github account cookie! (Optional)
     proxies = {
         "http": "http://localhost:10809",
         "https": "http://localhost:10809",
