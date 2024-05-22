@@ -1,7 +1,7 @@
 '''
 Author: liyansong2018
-Version: 1.1
-Date: 2023-05-12
+Version: 1.2
+Date: 2024-05-22
 Description: github modify json api
 Caution: You have exceeded a secondary rate limit.
 - User-to-server requests are limited to 5,000 requests per hour and per authenticated user.
@@ -166,7 +166,7 @@ def main(keywords, page_number, star_number, cookie, proxies=None):
 
 if __name__ == '__main__':
     urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-    cookie = '' # Your github account cookie! (Optional)
+    cookie = ''     # Your github account cookie! (Optional)
     proxies = {
         "http": "http://localhost:10809",
         "https": "http://localhost:10809",
